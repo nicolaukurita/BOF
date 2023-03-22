@@ -1,2 +1,5 @@
 # BOF
-Implementação do Brasil Open Finance
+O objetivo é implementar Open Banking Brazil para as instituições financeiras
+
+Tecnologia
+AWS
